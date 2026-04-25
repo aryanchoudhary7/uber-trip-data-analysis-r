@@ -44,6 +44,7 @@ install.packages(c("ggplot2", "dplyr", "lubridate"))
 Run the R script
 
 📌 Future Improvements
+
 Add predictive modeling (demand forecasting)
 Build an interactive dashboard (Shiny)
 Include more datasets for deeper insights
